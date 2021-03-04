@@ -13,7 +13,7 @@
 
 ---
 [Flight Delay Predictor](https://github.com/jmesich/travel_data/tree/main/flight_delay)
-<img src="images/airline_delay.jpg"/>
+<img src="images/pjimage.jpg"/>
 
 ---
 
