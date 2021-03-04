@@ -2,7 +2,7 @@
 
 ---
 
-### Recent Projects
+### Main Projects
 
 [Augmenting Chest X-Ray Dataset with Generated Data](https://github.com/jmesich/chestxray)
 <img src="images/xray_proj.jpg?raw=true"/>
