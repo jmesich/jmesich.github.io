@@ -1,8 +1,8 @@
 title: James Mesich # your name (or website title) here
 logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  James Mesich is an 
-  <br><br>
+  James Mesich is an aspiring ML researcher with a focus on its applications in Healthcare. 
+  <br>
   Languages: Python, Java, C++, Matlab, SQL
   Frameworks & Technologies: PyTorch, Google Cloud Platform, Numpy, Sci-kit learn, Flask, Django, Streamlit, Selenium
   
