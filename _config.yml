@@ -1,10 +1,8 @@
 title: James Mesich # your name (or website title) here
 logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  James Mesich is an aspiring ML researcher with a focus on its applications in Healthcare. 
-  
-  He is currently working on building a StyleGan to test the validity of 
-  augmenting existing Chest X-Ray datasets.
+  James Mesich is an aspiring ML researcher with a focus on its applications in Healthcare.
+  He is currently working on building a StyleGan to test the viability of augmenting existing Chest X-Ray datasets with generated data.
   <br>
   <a href="https://www.linkedin.com/in/james-mesich/">View My LinkedIn Profile</a>  
 theme: jekyll-theme-minimal
