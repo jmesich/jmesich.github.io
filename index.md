@@ -2,7 +2,7 @@
 
 ---
 
-### Main Projects 
+### Main Projects
 
 [StyleGAN for Chest X-Ray](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Flight Delay Predictor](http://example.com/)
+[Flight Delay Predictor](https://github.com/jmesich/travel_data/tree/main/flight_delay)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
