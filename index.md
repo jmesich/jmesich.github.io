@@ -19,11 +19,14 @@
 
 ### Other Projects I've worked on
 
-- [Euclidean Rhythm Generator (C++)](https://medium.com/@mesic26/mumt-306-final-project-29e817d21b1d)
-- [Basic AutoTuner (Matlab)](https://medium.com/@mesic26/mumt-307-final-project-autotune-5d4c0d46ffcf)
-- [Music Recommender(Python)](https://github.com/jmesich/music_recommender)
-- [NYC Uber Rides Dashboard(Python)](https://github.com/jmesich/travel_data)
-- [Leetcode Problems(Python)](https://github.com/jmesich/leetcode)
+- [Euclidean Rhythm Generator](https://medium.com/@mesic26/mumt-306-final-project-29e817d21b1d)
+- [Basic AutoTuner](https://medium.com/@mesic26/mumt-307-final-project-autotune-5d4c0d46ffcf)
+- [Music Recommender](https://github.com/jmesich/music_recommender)
+- [NYC Uber Rides Dashboard](https://github.com/jmesich/travel_data)
+
+
+#### Interview Prep
+- [Leetcode Problems](https://github.com/jmesich/leetcode)
 
 ---
 
