@@ -5,7 +5,7 @@
 ### Recent Projects
 
 [Augmenting Chest X-Ray Dataset with Generated Data](https://github.com/jmesich/chestxray)
-<img src="images/chest_xray.jpg?raw=true"/>
+<img src="images/xray_proj.jpg?raw=true"/>
 
 ---
 [UI Testing Suite for Opal](/pdf/HIG-2018-10.pdf)
