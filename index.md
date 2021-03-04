@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[UI Testing Suite for Opal](/pdf/sample_presentation.pdf)
+[UI Testing Suite for Opal](/pdf/HIG-2018-10.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
