@@ -3,8 +3,8 @@ logo: "images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   James Mesich is an aspiring ML researcher with a focus on its applications in Healthcare. 
   <br>
-  Languages: Python, Java, C++, Matlab, SQL
-  Frameworks & Technologies: PyTorch, Google Cloud Platform, Numpy, Sci-kit learn, Flask, Django, Streamlit, Selenium
+  Languages: Python, Java, C++, SQL
+  Frameworks & Technologies: PyTorch, Google Cloud Platform, Numpy, Sci-kit learn, Django, Streamlit, Selenium
   
   <a href="https://www.linkedin.com/in/james-mesich/">View My LinkedIn Profile</a>  
 theme: jekyll-theme-minimal
