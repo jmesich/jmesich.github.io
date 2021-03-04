@@ -4,7 +4,7 @@
 
 ### Main Projects
 
-[StyleGAN for Chest X-Ray](/sample_page)
+[Augmenting Chest X-Ray Dataset with Generated Data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
