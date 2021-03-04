@@ -9,11 +9,11 @@
 
 ---
 [UI Testing Suite for Opal](/pdf/HIG-2018-10.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<embed src= "/pdf/HIG-2018-10.pdf" type="application/pdf" width= "500" height= "375">
 
 ---
 [Flight Delay Predictor](https://github.com/jmesich/travel_data/tree/main/flight_delay)
-<img src="images/airline_delay.png?raw=true"/>
+<img src="images/airline_delay.png"/>
 
 ---
 
